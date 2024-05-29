@@ -8,7 +8,7 @@ $$  Q_{\phi, \mu}(w) =
     \frac{1}{n} \sum_{i=1}^n \frac{1}{\mu} \log \left(\sum_{j=1}^K e^{\mu \phi({F_{w}(x_i,y_i)_j})} \right) 
 $$
 
-where $F_{w} (x_i, y_i)_j = f_{w} (x_i)_{j} - f_{w} (x_i) _{y_i}$.
+<!-- where $F_{w} (x_i, y_i)_j = f_{w} (x_i)_{j} - f_{w} (x_i) _{y_i}$. -->
 
 <!-- where <p>$F_{w} (x_i, y_i)_j = f_{w} (x_i)_{j} - f_{w} (x_i)_{y_i}$</p> -->
 
