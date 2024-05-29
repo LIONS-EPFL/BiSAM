@@ -8,7 +8,7 @@ $$  Q_{\phi, \mu}(w) =
     \frac{1}{n} \sum_{i=1}^n \frac{1}{\mu} \log \left(\sum_{j=1}^K e^{\mu \phi({F_{w}(x_i,y_i)_j})} \right) 
 $$
 
-where $F_{w} (x_i, y_i)_{j} = f_{w} (x_i)_{j} - f_{w} (x_i)_{y_i}$.
+where $F_{w} (x_i, y_i) _{j} = f_{w} (x_i)_{j} - f_{w} (x_i) _{y_i}$.
 
 Function $\phi(x)$ is the lower bound of 0-1 step function. We show 2 suggested lower bounds in the paper:
 - For BiSAM (tanh), we set $\phi(x)=\tanh(\alpha x)$.
