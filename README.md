@@ -1,6 +1,6 @@
 # Improving SAM Requires Rethinking its Optimization Formulation
 
-This is official code for [Improving SAM Requires Rethinking its Optimization Formulation]() accepted at ICML 2024.
+This is official code for [Improving SAM Requires Rethinking its Optimization Formulation](http://arxiv.org/abs/2407.12993) accepted at ICML 2024.
 
 The lower-bound loss function for the maximizer defined in the paper is
 
