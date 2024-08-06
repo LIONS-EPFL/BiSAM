@@ -53,15 +53,15 @@ python train.py
     ```
 
 
-<!-- ## Citation -->
-<!-- ```
-@inproceedings{pethick2023stable,
-  title={Stable Nonconvex-Nonconcave Training via Linear Interpolation},
-  author={Pethick, Thomas and Xie, Wanyun and Cevher, Volkan},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2023}
+## Citation
+```
+@inproceedings{xie2024improving,
+  title={Improving SAM Requires Rethinking its Optimization Formulation},
+  author={Xie, Wanyun and Latorre, Fabian and Antonakopoulos, Kimon and Pethick, Thomas and Cevher, Volkan},
+  booktitle=International Conference on Machine Learning (ICML),
+  year={2024}
 }
-``` -->
+``` 
 
 ## Reference Code
 [1] [(Adaptive) SAM Optimizer](https://github.com/davda54/sam/tree/main)
