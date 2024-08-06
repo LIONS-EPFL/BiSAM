@@ -58,7 +58,7 @@ python train.py
 @inproceedings{xie2024improving,
   title={Improving SAM Requires Rethinking its Optimization Formulation},
   author={Xie, Wanyun and Latorre, Fabian and Antonakopoulos, Kimon and Pethick, Thomas and Cevher, Volkan},
-  booktitle=International Conference on Machine Learning (ICML),
+  booktitle={International Conference on Machine Learning (ICML)},
   year={2024}
 }
 ``` 
